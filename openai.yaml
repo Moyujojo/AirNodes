@@ -1,0 +1,4345 @@
+proxies:
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: HK
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1ED\U0001F1F0 HK 000"
+      netflix: false
+      network: tcp
+      port: 33782
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: shenzhou05.mysynology.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 002"
+      netflix: true
+      network: ws
+      port: 56457
+      server: 103.117.101.168
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: TW
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1F9\U0001F1FC TW 003"
+      netflix: true
+      network: tcp
+      port: 47531
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: bsuqian01.dynu.net
+      servername: gateway.icloud.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 004"
+      netflix: false
+      network: ws
+      port: 35961
+      server: 47.238.136.218
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 005"
+      netflix: true
+      port: 11059
+      server: c9s4.portablesubmarines.com
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 5cdd371e-cc4e-4ea2-91a8-c755f00f67a0
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 006"
+      netflix: false
+      network: ws
+      port: 35243
+      server: jp3.vip2.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 007"
+      netflix: false
+      network: ws
+      port: 44333
+      server: 54.255.22.244
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 008"
+      netflix: true
+      network: ws
+      port: 35211
+      server: jp1.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 009"
+      netflix: false
+      network: ws
+      port: 1443
+      server: 103.148.72.147
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 011"
+      netflix: false
+      network: ws
+      port: 2053
+      server: 162.159.152.165
+      servername: vip.shazi.tk
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f3761cb6-1d18-4f5b-b480-f23f02585704
+      ws-opts:
+        headers:
+            Host: vip.shazi.tk
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 012"
+      netflix: false
+      network: ws
+      port: 2096
+      server: 162.159.153.242
+      servername: bitget1.asdasd.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+      ws-opts:
+        headers:
+            Host: bitget1.asdasd.click
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 013"
+      netflix: false
+      network: ws
+      port: 20001
+      server: 52.76.110.129
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: qq
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 014"
+      netflix: false
+      network: tcp
+      port: 7008
+      reality-opts:
+        public-key: Oj8-fhTWXtsuOkPJxRra_9gK3K_Jnxi-Ybek148Iixs
+        short-id: 806ba558
+      server: cn.eans.top
+      servername: addons.mozilla.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: aedae871-a4e5-489f-946c-98372f15bee2
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 015"
+      netflix: false
+      network: ws
+      port: 8443
+      server: 162.159.129.67
+      servername: amkj.sdchsd.cn
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9ffaedda-2421-49ad-90d1-59b94ba4ab4e
+      ws-opts:
+        headers:
+            Host: amkj.sdchsd.cn
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 016"
+      netflix: false
+      network: ws
+      port: 443
+      server: 162.159.152.189
+      servername: abc.jaiven.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.jaiven.dedyn.io
+        path: /?ed=2560
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 017"
+      netflix: true
+      network: ws
+      port: 35241
+      server: jp1.vip2.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 019"
+      netflix: false
+      network: ws
+      port: 7002
+      server: 139.162.102.152
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 020"
+      netflix: false
+      network: ws
+      port: 2053
+      server: 162.159.129.11
+      servername: amkj.sdchsd.cn
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9ffaedda-2421-49ad-90d1-59b94ba4ab4e
+      ws-opts:
+        headers:
+            Host: amkj.sdchsd.cn
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 021"
+      netflix: false
+      network: ws
+      port: 587
+      server: 139.162.33.248
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: HK
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1ED\U0001F1F0 HK 022"
+      netflix: false
+      network: tcp
+      port: 25135
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: zhee01.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 023"
+      netflix: false
+      network: ws
+      port: 2087
+      server: 162.159.142.41
+      servername: 2024.41122986.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f9f2fcd0-cb25-487b-a171-5bd574f32d1e
+      ws-opts:
+        headers:
+            Host: 2024.41122986.xyz
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: TW
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1F9\U0001F1FC TW 024"
+      netflix: false
+      network: tcp
+      port: 15700
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: zhee01.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: JP
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1EF\U0001F1F5 JP 025"
+      netflix: false
+      network: tcp
+      port: 48121
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: beiyong.dynuddns.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 026"
+      netflix: false
+      network: ws
+      port: 8443
+      server: 162.159.153.212
+      servername: test0.lolicon97.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5a6e0b67-8f28-4986-9db4-486b96004c04
+      ws-opts:
+        headers:
+            Host: test0.lolicon97.pp.ua
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 027"
+      netflix: false
+      network: ws
+      port: 8443
+      server: 162.159.136.69
+      servername: 2024.41122986.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f9f2fcd0-cb25-487b-a171-5bd574f32d1e
+      ws-opts:
+        headers:
+            Host: 2024.41122986.xyz
+        path: /?ed=2560
+      youtube: true
+    - alterId: 1
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 028"
+      netflix: false
+      port: 11778
+      server: gvhf3-g06.jp02-9a99-vm0.entry.fr0307a.art
+      skip-cert-verify: false
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: b5e55dbe-b9d1-3ff2-94ef-79e7fee321b4
+      youtube: true
+    - alterId: 64
+      chatgpt: true
+      cipher: auto
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 029"
+      netflix: false
+      port: 54652
+      server: 183.236.51.38
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 030"
+      netflix: false
+      network: ws
+      port: 2096
+      server: 162.159.153.109
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 031"
+      netflix: false
+      network: ws
+      port: 2096
+      server: 162.159.153.156
+      servername: bettercf.724719.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 25ee0c23-9a3c-4cd0-ab35-095dc7d2a756
+      ws-opts:
+        headers:
+            Host: bettercf.724719.xyz
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: TW
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1F9\U0001F1FC TW 032"
+      netflix: false
+      network: tcp
+      port: 13263
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: zhee01.dynu.net
+      servername: gateway.icloud.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 033"
+      netflix: false
+      network: ws
+      port: 47881
+      server: 8.218.37.175
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 034"
+      netflix: false
+      network: ws
+      port: 2083
+      server: 162.159.128.94
+      servername: 2024.41122986.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f9f2fcd0-cb25-487b-a171-5bd574f32d1e
+      ws-opts:
+        headers:
+            Host: 2024.41122986.xyz
+        path: /?ed=2560
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 035"
+      netflix: true
+      port: 11059
+      server: c9s3.portablesubmarines.com
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 5cdd371e-cc4e-4ea2-91a8-c755f00f67a0
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 036"
+      netflix: false
+      network: ws
+      port: 12416
+      server: 121.174.200.92
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: JP
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1EF\U0001F1F5 JP 037"
+      netflix: false
+      network: tcp
+      port: 11839
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: gysz0000.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 039"
+      netflix: false
+      network: ws
+      port: 14896
+      server: 222.117.231.32
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 040"
+      netflix: false
+      network: ws
+      port: 30111
+      server: 222.102.166.18
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 041"
+      netflix: false
+      network: ws
+      port: 12202
+      server: 14.56.226.68
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 042"
+      netflix: false
+      network: ws
+      port: 35245
+      server: jp5.vip2.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 043"
+      netflix: false
+      network: ws
+      port: 35213
+      server: jp3.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 044"
+      netflix: false
+      network: ws
+      port: 35215
+      server: jp5.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 045"
+      netflix: false
+      network: ws
+      port: 443
+      server: visa.cn
+      servername: nptian.xiaotianvpn.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0343e230-5132-4e98-844e-b42ad1a6a273
+      ws-opts:
+        headers:
+            Host: nptian.xiaotianvpn.sbs
+        path: /?ed=2560
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 046"
+      netflix: false
+      network: ws
+      port: 35244
+      server: jp4.vip2.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      grpc-opts:
+        grpc-mode: gun
+        grpc-service-name: grpc
+      name: "\U0001F1FA\U0001F1F3 UN 048"
+      netflix: false
+      network: grpc
+      port: 33769
+      reality-opts:
+        public-key: _feoPj4g_7Z83v4qHgLXZQJXrzO_B3IH1AssvFeJrDI
+      server: 170.64.222.252
+      servername: addons.mozilla.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 1e46f2f5-c0ba-41c8-a83e-08538ca6a5a3
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 050"
+      netflix: false
+      network: ws
+      port: 12456
+      server: 121.129.91.180
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: TW
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1F9\U0001F1FC TW 051"
+      netflix: false
+      network: tcp
+      port: 12477
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: gysz0000.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 053"
+      netflix: false
+      network: ws
+      port: 10443
+      server: 20.243.85.49
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: true
+    - chatgpt: true
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 054"
+      netflix: true
+      network: ws
+      port: 80
+      server: 45.131.4.251
+      servername: psycho.suex12.ir
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+      ws-opts:
+        headers:
+            Host: psycho.suex12.ir
+        path: /Telegram@WangCai2/?ed=2560
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 055"
+      netflix: true
+      port: 11059
+      server: c9s801.portablesubmarines.com
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 5cdd371e-cc4e-4ea2-91a8-c755f00f67a0
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 056"
+      netflix: false
+      network: ws
+      port: 35214
+      server: jp4.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: FR
+      disney: false
+      name: "\U0001F1EB\U0001F1F7 FR 057"
+      netflix: false
+      port: 39411
+      server: dddd2024.zj-zz-cm1.qunimade.lol
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: ec31bf35-41a0-4178-9c6a-77623b159076
+      youtube: false
+    - alterId: 1
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 058"
+      netflix: false
+      port: 28788
+      server: ldasd-g06.jp06-7c5a-vm0.entry.fr0307a.art
+      skip-cert-verify: false
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: b5e55dbe-b9d1-3ff2-94ef-79e7fee321b4
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 059"
+      netflix: true
+      network: tcp
+      port: 50203
+      reality-opts:
+        public-key: kA4zKNx_5ENivpMUJJJDxX24L7suGimSJa-nixQyVx0
+        short-id: 0c808977
+      server: 47.79.84.35
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 494159ec-217f-4b50-9cf2-1b65e6db90dc
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 062"
+      netflix: false
+      network: ws
+      port: 443
+      server: 162.159.152.251
+      servername: 2.771743.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: ac0f6732-f6f9-4284-bb77-c27935c29e74
+      ws-opts:
+        headers:
+            Host: 2.771743.xyz
+        path: /?ed=2560
+      youtube: true
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 063"
+      netflix: false
+      port: 11059
+      server: c9s5.portablesubmarines.com
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 5cdd371e-cc4e-4ea2-91a8-c755f00f67a0
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: KR
+      disney: false
+      name: "\U0001F1F0\U0001F1F7 KR 064"
+      netflix: false
+      network: ws
+      port: 10943
+      server: 14.39.43.121
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 066"
+      netflix: true
+      network: tcp
+      port: 51244
+      reality-opts:
+        public-key: 4vu101eL0PZXeu_7Tqa8upGDfYcE_u2wM09AOoRr6Bk
+        short-id: e83a11cd
+      server: zgovps.333404.xyz
+      servername: yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 99567d21-0134-476b-8668-e3311090ca23
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: JP
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1EF\U0001F1F5 JP 067"
+      netflix: false
+      network: tcp
+      port: 16497
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: zhee01.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: KR
+      disney: false
+      name: "\U0001F1F0\U0001F1F7 KR 068"
+      netflix: false
+      network: ws
+      port: 11184
+      server: 121.131.142.231
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: KR
+      disney: false
+      name: "\U0001F1F0\U0001F1F7 KR 069"
+      netflix: false
+      network: ws
+      port: 12365
+      server: 220.120.172.116
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 070"
+      netflix: false
+      network: tcp
+      port: 16955
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: bsuqian01.dynu.net
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: KR
+      disney: false
+      name: "\U0001F1F0\U0001F1F7 KR 071"
+      netflix: false
+      network: ws
+      port: 16058
+      server: 59.26.208.19
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: SG
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1F8\U0001F1EC SG 072"
+      netflix: true
+      network: tcp
+      port: 56127
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: agaungzhou01.bumbleshrimp.com
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: KR
+      disney: false
+      name: "\U0001F1F0\U0001F1F7 KR 073"
+      netflix: false
+      network: ws
+      port: 50008
+      server: 59.25.160.141
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 074"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.16.203.79
+      servername: bitget1.asdasd.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+      ws-opts:
+        headers:
+            Host: bitget1.asdasd.click
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 075"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.16.146.206
+      servername: eee.lizhi51.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 22d89310-1c0f-49d8-8a49-17a327250011
+      ws-opts:
+        headers:
+            Host: eee.lizhi51.com
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 076"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.120.167
+      servername: eee.lizhi51.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 22d89310-1c0f-49d8-8a49-17a327250011
+      ws-opts:
+        headers:
+            Host: eee.lizhi51.com
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 078"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 104.16.0.46
+      servername: x5kh.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 290dccd7-b2eb-4213-b45f-a5305cc8bc05
+      ws-opts:
+        headers:
+            Host: x5kh.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 079"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 172.64.47.16
+      servername: cloudflare.rskmin.top
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: d19e5c00-af7f-4778-9f6d-fd53ec335a9b
+      ws-opts:
+        headers:
+            Host: cloudflare.rskmin.top
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 080"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.16.174.122
+      servername: cloudflare.rskmin.top
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: d19e5c00-af7f-4778-9f6d-fd53ec335a9b
+      ws-opts:
+        headers:
+            Host: cloudflare.rskmin.top
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      country: DE
+      disney: false
+      name: "\U0001F1E9\U0001F1EA DE 081"
+      netflix: true
+      network: ws
+      port: 80
+      server: 45.131.4.248
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+      ws-opts:
+        headers:
+            Host: psycho.suex12.ir
+        path: /Telegram@WangCai2
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 082"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.16.228.144
+      servername: abc.hh2277.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.hh2277.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 083"
+      netflix: true
+      network: ws
+      port: 2053
+      server: japan.com
+      servername: nptian.xiaotianvpn.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0343e230-5132-4e98-844e-b42ad1a6a273
+      ws-opts:
+        headers:
+            Host: nptian.xiaotianvpn.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 084"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.60.160
+      servername: cf.zhaoyin.wang
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f1b4ac67-17e7-4bac-91e5-4dd846aa222d
+      ws-opts:
+        headers:
+            Host: cf.zhaoyin.wang
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 085"
+      netflix: false
+      network: ws
+      port: 9950
+      server: 43.134.167.135
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 086"
+      netflix: true
+      network: ws
+      port: 443
+      server: 190.93.247.145
+      servername: vip.shazi.tk
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f3761cb6-1d18-4f5b-b480-f23f02585704
+      ws-opts:
+        headers:
+            Host: vip.shazi.tk
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 087"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.16.236.36
+      servername: d.zepzou.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 4f228d28-5d36-46f6-804e-daa28a459173
+      ws-opts:
+        headers:
+            Host: d.zepzou.sbs
+        path: /?ed=2560
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 088"
+      netflix: false
+      port: 39212
+      server: dddd.zj-zz-bgp.qunimade.lol
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: ec31bf35-41a0-4178-9c6a-77623b159076
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 089"
+      netflix: true
+      network: ws
+      port: 443
+      server: 190.93.244.120
+      servername: vlessv5.yeleivless.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 1f9a3b42-043b-43dc-a7b3-781db1b91fca
+      ws-opts:
+        headers:
+            Host: vlessv5.yeleivless.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 090"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 188.114.97.122
+      servername: flyibird.buzz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 33eaede0-7d6d-48ed-9c16-66cfacb6bcf5
+      ws-opts:
+        headers:
+            Host: flyibird.buzz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 091"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.16.172.189
+      servername: x5kh.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 290dccd7-b2eb-4213-b45f-a5305cc8bc05
+      ws-opts:
+        headers:
+            Host: x5kh.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 092"
+      netflix: true
+      network: ws
+      port: 2096
+      server: time.is
+      servername: 2024.41122986.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f9f2fcd0-cb25-487b-a171-5bd574f32d1e
+      ws-opts:
+        headers:
+            Host: 2024.41122986.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 094"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.16.75.213
+      servername: abc.hh2277.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.hh2277.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 095"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.16.86.153
+      servername: flyibird.buzz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 33eaede0-7d6d-48ed-9c16-66cfacb6bcf5
+      ws-opts:
+        headers:
+            Host: flyibird.buzz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 096"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.168.205
+      servername: ppp.acc360.edu.kg
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 868fa229-df5b-4e56-8883-684f4c955771
+      ws-opts:
+        headers:
+            Host: ppp.acc360.edu.kg
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 097"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.121.234
+      servername: welean.top
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 95d7aaec-bae8-46ff-bd39-ca3d843eed4a
+      ws-opts:
+        headers:
+            Host: welean.top
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 098"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 190.93.244.153
+      servername: go-79m.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 43456a74-7d96-4e8a-8c1d-fbd392e81670
+      ws-opts:
+        headers:
+            Host: go-79m.pages.dev
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 099"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.16.240.123
+      servername: vip.shazi.tk
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f3761cb6-1d18-4f5b-b480-f23f02585704
+      ws-opts:
+        headers:
+            Host: vip.shazi.tk
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 100"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.16.90.57
+      servername: eee.lizhi51.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 22d89310-1c0f-49d8-8a49-17a327250011
+      ws-opts:
+        headers:
+            Host: eee.lizhi51.com
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 101"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.16.214.107
+      servername: abc.jaiven.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.jaiven.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 102"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 104.16.208.138
+      servername: abc.jaiven.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.jaiven.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 103"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.16.216.138
+      servername: vip.shazi.tk
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f3761cb6-1d18-4f5b-b480-f23f02585704
+      ws-opts:
+        headers:
+            Host: vip.shazi.tk
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 104"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 104.16.84.120
+      servername: tun.xpvip168.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 884e1e0f-39c8-41f9-9a49-046efc82042e
+      ws-opts:
+        headers:
+            Host: tun.xpvip168.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 105"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 104.16.162.89
+      servername: flyibird.buzz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 33eaede0-7d6d-48ed-9c16-66cfacb6bcf5
+      ws-opts:
+        headers:
+            Host: flyibird.buzz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 106"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.16.113.42
+      servername: cf.xingciyuan.cc
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 2c14bb45-9b6e-410e-8ba0-bcb0539dad22
+      ws-opts:
+        headers:
+            Host: cf.xingciyuan.cc
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 107"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.16.194.100
+      servername: 2.771743.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: ac0f6732-f6f9-4284-bb77-c27935c29e74
+      ws-opts:
+        headers:
+            Host: 2.771743.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 108"
+      netflix: true
+      network: ws
+      port: 28358
+      server: 67.230.170.187
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: false
+    - chatgpt: true
+      country: DE
+      disney: false
+      name: "\U0001F1E9\U0001F1EA DE 109"
+      netflix: false
+      network: ws
+      port: 80
+      server: 141.193.213.0
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+      ws-opts:
+        headers:
+            Host: psycho.suex12.ir
+        path: /Telegram@V2ray_Alpha
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 110"
+      netflix: false
+      network: ws
+      port: 58882
+      server: 43.134.250.63
+      servername: edg-5ob.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 63d60ca2-c97f-44c1-a000-10af1d5406f5
+      ws-opts:
+        headers:
+            Host: edg-5ob.pages.dev
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 111"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.16.243.160
+      servername: tun.xpvip168.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 884e1e0f-39c8-41f9-9a49-046efc82042e
+      ws-opts:
+        headers:
+            Host: tun.xpvip168.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 112"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.16.156.164
+      servername: bitget1.asdasd.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+      ws-opts:
+        headers:
+            Host: bitget1.asdasd.click
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 113"
+      netflix: true
+      network: ws
+      port: 443
+      server: 103.21.244.185
+      servername: free.5niu.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b07a750e-dd66-4180-8af3-505287846bb0
+      ws-opts:
+        headers:
+            Host: free.5niu.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 114"
+      netflix: true
+      network: ws
+      port: 2083
+      server: brazil.com
+      servername: gaosir.unfeeling.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+      ws-opts:
+        headers:
+            Host: gaosir.unfeeling.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 115"
+      netflix: true
+      network: ws
+      port: 2087
+      server: russia.com
+      servername: gaosir.unfeeling.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+      ws-opts:
+        headers:
+            Host: gaosir.unfeeling.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 116"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 190.93.244.154
+      servername: 2.771743.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: ac0f6732-f6f9-4284-bb77-c27935c29e74
+      ws-opts:
+        headers:
+            Host: 2.771743.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 117"
+      netflix: false
+      network: ws
+      port: 40029
+      server: 43.128.95.110
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 118"
+      netflix: true
+      network: ws
+      port: 2096
+      server: www.gov.ua
+      servername: nptian.xiaotianvpn.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0343e230-5132-4e98-844e-b42ad1a6a273
+      ws-opts:
+        headers:
+            Host: nptian.xiaotianvpn.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 119"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.19.247.78
+      servername: loveskyvpn1-d7l.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 3714f1fc-6386-49da-9824-ea16b6e38a82
+      ws-opts:
+        headers:
+            Host: loveskyvpn1-d7l.pages.dev
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 120"
+      netflix: false
+      network: ws
+      port: 443
+      server: 162.159.152.31
+      servername: cm6gcore.sdchsd.cn
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 11188b2e-ea92-4c57-8b90-8a0a6d907fd7
+      ws-opts:
+        headers:
+            Host: cm6gcore.sdchsd.cn
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 121"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.16.232.186
+      servername: abc.hh2277.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.hh2277.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 122"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 103.21.244.67
+      servername: vip.shazi.tk
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f3761cb6-1d18-4f5b-b480-f23f02585704
+      ws-opts:
+        headers:
+            Host: vip.shazi.tk
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 123"
+      netflix: false
+      network: ws
+      port: 8443
+      server: 104.16.96.128
+      servername: tun.xpvip168.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 884e1e0f-39c8-41f9-9a49-046efc82042e
+      ws-opts:
+        headers:
+            Host: tun.xpvip168.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 124"
+      netflix: true
+      network: ws
+      port: 8443
+      server: www.wto.org
+      servername: gaosir.unfeeling.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+      ws-opts:
+        headers:
+            Host: gaosir.unfeeling.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 125"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 190.93.245.106
+      servername: bitget1.asdasd.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+      ws-opts:
+        headers:
+            Host: bitget1.asdasd.click
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 126"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.16.181.53
+      servername: w-mce.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 58f80cb8-1ed4-405c-adac-165d4ab30fd9
+      ws-opts:
+        headers:
+            Host: w-mce.pages.dev
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 127"
+      netflix: false
+      network: tcp
+      port: 29664
+      reality-opts:
+        public-key: UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM
+      server: 156.229.163.209
+      servername: www.icloud.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b2d79249-2307-4b51-8d76-f12a5ed6e20d
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 128"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 190.93.245.167
+      servername: x5kh.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 290dccd7-b2eb-4213-b45f-a5305cc8bc05
+      ws-opts:
+        headers:
+            Host: x5kh.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 129"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.24.29.160
+      servername: 2.771743.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: ac0f6732-f6f9-4284-bb77-c27935c29e74
+      ws-opts:
+        headers:
+            Host: 2.771743.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 130"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.145.24
+      servername: cf.0115.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 32160d16-54e7-49fe-a419-101f7e3ed947
+      ws-opts:
+        headers:
+            Host: cf.0115.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 131"
+      netflix: true
+      network: ws
+      port: 443
+      server: 103.21.244.235
+      servername: vless-new.linginglu.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 8b6ad77f-aeef-413d-b1a1-6419770a8bc7
+      ws-opts:
+        headers:
+            Host: vless-new.linginglu.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 132"
+      netflix: false
+      network: ws
+      port: 443
+      server: 104.24.170.255
+      servername: shunzi.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: d0146879-0fa3-45c3-8efe-2b172d6e4e7a
+      ws-opts:
+        headers:
+            Host: shunzi.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 133"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 104.16.160.233
+      servername: d.zepzou.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 4f228d28-5d36-46f6-804e-daa28a459173
+      ws-opts:
+        headers:
+            Host: d.zepzou.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 134"
+      netflix: true
+      network: ws
+      port: 2096
+      server: www.gov.ua
+      servername: gaosir.unfeeling.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+      ws-opts:
+        headers:
+            Host: gaosir.unfeeling.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 135"
+      netflix: false
+      network: ws
+      port: 2083
+      server: 104.16.134.27
+      servername: amkj.sdchsd.cn
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9ffaedda-2421-49ad-90d1-59b94ba4ab4e
+      ws-opts:
+        headers:
+            Host: amkj.sdchsd.cn
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: JP
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1EF\U0001F1F5 JP 136"
+      netflix: false
+      network: tcp
+      port: 25768
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: bsuqian01.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 137"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.16.233.71
+      servername: d.zepzou.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 4f228d28-5d36-46f6-804e-daa28a459173
+      ws-opts:
+        headers:
+            Host: d.zepzou.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 138"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.24.161.175
+      servername: kx.yage.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: dc977bb9-e998-48a2-9459-f1931cd7fa9b
+      ws-opts:
+        headers:
+            Host: kx.yage.pp.ua
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 139"
+      netflix: false
+      network: ws
+      port: 443
+      server: 104.16.142.241
+      servername: cool.koolthinker.top
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 8df12a65-dc3f-4dab-9488-f4c5adef773a
+      ws-opts:
+        headers:
+            Host: cool.koolthinker.top
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 140"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.24.164.184
+      servername: x5kh.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 290dccd7-b2eb-4213-b45f-a5305cc8bc05
+      ws-opts:
+        headers:
+            Host: x5kh.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 141"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.24.210.24
+      servername: bitget1.asdasd.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+      ws-opts:
+        headers:
+            Host: bitget1.asdasd.click
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 142"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.24.10.153
+      servername: cf.xingciyuan.cc
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 2c14bb45-9b6e-410e-8ba0-bcb0539dad22
+      ws-opts:
+        headers:
+            Host: cf.xingciyuan.cc
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 143"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.24.4.40
+      servername: x5kh.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 290dccd7-b2eb-4213-b45f-a5305cc8bc05
+      ws-opts:
+        headers:
+            Host: x5kh.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 144"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.24.199.146
+      servername: test0.lolicon97.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5a6e0b67-8f28-4986-9db4-486b96004c04
+      ws-opts:
+        headers:
+            Host: test0.lolicon97.pp.ua
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 145"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.24.11.144
+      servername: bitget1.asdasd.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+      ws-opts:
+        headers:
+            Host: bitget1.asdasd.click
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 146"
+      netflix: true
+      network: ws
+      port: 443
+      server: www.shopify.com
+      servername: 2024.41122986.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f9f2fcd0-cb25-487b-a171-5bd574f32d1e
+      ws-opts:
+        headers:
+            Host: 2024.41122986.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 147"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 172.64.38.252
+      servername: 227123.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 46d2f9d6-cff3-4129-94cd-c48e6f80712c
+      ws-opts:
+        headers:
+            Host: 227123.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 148"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.17.114
+      servername: www.gongfuwolf.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 7e581c73-2549-48cb-a8ba-f0bbae58b6e0
+      ws-opts:
+        headers:
+            Host: www.gongfuwolf.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 149"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 104.16.82.193
+      servername: bettercf.724719.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 25ee0c23-9a3c-4cd0-ab35-095dc7d2a756
+      ws-opts:
+        headers:
+            Host: bettercf.724719.xyz
+        path: /?ed=2560
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: NL
+      disney: false
+      http-opts:
+        headers:
+            Host:
+                - nl1.bugfreenet.biz.ddns-ip.net
+        method: GET
+        path:
+            - /
+      name: "\U0001F1F3\U0001F1F1 NL 150"
+      netflix: false
+      network: http
+      port: 2095
+      server: 0:0:0:0:0:ffff:9df5:4c61
+      skip-cert-verify: false
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 6ba15edd-efc5-426b-baf7-70b9c6607e26
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 151"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 188.114.97.11
+      servername: eee.lizhi51.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 22d89310-1c0f-49d8-8a49-17a327250011
+      ws-opts:
+        headers:
+            Host: eee.lizhi51.com
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 152"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 172.64.42.70
+      servername: cloudflare.rskmin.top
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: d19e5c00-af7f-4778-9f6d-fd53ec335a9b
+      ws-opts:
+        headers:
+            Host: cloudflare.rskmin.top
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 153"
+      netflix: true
+      network: ws
+      port: 443
+      server: 103.21.244.56
+      servername: cloudflare.rskmin.top
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: d19e5c00-af7f-4778-9f6d-fd53ec335a9b
+      ws-opts:
+        headers:
+            Host: cloudflare.rskmin.top
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 154"
+      netflix: false
+      network: ws
+      port: 2053
+      server: 104.16.136.241
+      servername: tun.xpvip168.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 884e1e0f-39c8-41f9-9a49-046efc82042e
+      ws-opts:
+        headers:
+            Host: tun.xpvip168.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 155"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.24.13.92
+      servername: flyibird.buzz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 33eaede0-7d6d-48ed-9c16-66cfacb6bcf5
+      ws-opts:
+        headers:
+            Host: flyibird.buzz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 156"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.24.1.245
+      servername: abc.hh2277.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.hh2277.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 157"
+      netflix: false
+      network: ws
+      port: 443
+      server: 104.16.141.166
+      servername: test0.lolicon97.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5a6e0b67-8f28-4986-9db4-486b96004c04
+      ws-opts:
+        headers:
+            Host: test0.lolicon97.pp.ua
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 158"
+      netflix: false
+      network: ws
+      port: 443
+      server: 104.16.131.167
+      servername: x5kh.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 290dccd7-b2eb-4213-b45f-a5305cc8bc05
+      ws-opts:
+        headers:
+            Host: x5kh.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 159"
+      netflix: true
+      network: ws
+      port: 2083
+      server: brazil.com
+      servername: nptian.xiaotianvpn.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0343e230-5132-4e98-844e-b42ad1a6a273
+      ws-opts:
+        headers:
+            Host: nptian.xiaotianvpn.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 160"
+      netflix: true
+      network: ws
+      port: 443
+      server: 103.21.244.21
+      servername: semby.icu
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 4dbfc927-a8fe-49c3-9405-2fc37a6d372b
+      ws-opts:
+        headers:
+            Host: semby.icu
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 161"
+      netflix: true
+      network: ws
+      port: 2053
+      server: japan.com
+      servername: gaosir.unfeeling.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+      ws-opts:
+        headers:
+            Host: gaosir.unfeeling.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 162"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.17.128.1
+      servername: amkj.sdchsd.cn
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9ffaedda-2421-49ad-90d1-59b94ba4ab4e
+      ws-opts:
+        headers:
+            Host: amkj.sdchsd.cn
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 163"
+      netflix: true
+      network: tcp
+      port: 22216
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: bsuqian01.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: JP
+      disney: false
+      name: "\U0001F1EF\U0001F1F5 JP 165"
+      netflix: false
+      network: ws
+      port: 35246
+      server: jp6.vip2.g2.moonbase.life
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 46a539d2-d3ba-4a6e-aedb-b727d2fc60f8
+      ws-opts:
+        headers:
+            Host: web.xcjs.info
+        path: /home
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 166"
+      netflix: true
+      network: ws
+      port: 8443
+      server: www.wto.org
+      servername: nptian.xiaotianvpn.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0343e230-5132-4e98-844e-b42ad1a6a273
+      ws-opts:
+        headers:
+            Host: nptian.xiaotianvpn.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 167"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.24.163.172
+      servername: jack.jack-cq.click
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 72982133-27fb-46fc-9061-61113e77e201
+      ws-opts:
+        headers:
+            Host: jack.jack-cq.click
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 170"
+      netflix: true
+      network: ws
+      port: 2087
+      server: 172.64.83.151
+      servername: test0.lolicon97.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5a6e0b67-8f28-4986-9db4-486b96004c04
+      ws-opts:
+        headers:
+            Host: test0.lolicon97.pp.ua
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 171"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 172.64.147.95
+      servername: go-79m.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 43456a74-7d96-4e8a-8c1d-fbd392e81670
+      ws-opts:
+        headers:
+            Host: go-79m.pages.dev
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 172"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 188.114.98.156
+      servername: 2.771743.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: ac0f6732-f6f9-4284-bb77-c27935c29e74
+      ws-opts:
+        headers:
+            Host: 2.771743.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 173"
+      netflix: true
+      network: ws
+      port: 2087
+      server: fbi.gov
+      servername: nptian.xiaotianvpn.sbs
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 0343e230-5132-4e98-844e-b42ad1a6a273
+      ws-opts:
+        headers:
+            Host: nptian.xiaotianvpn.sbs
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: JP
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1EF\U0001F1F5 JP 174"
+      netflix: false
+      network: tcp
+      port: 13989
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: csuzhou01.1cooldns.com
+      servername: gateway.icloud.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 175"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 103.21.244.175
+      servername: test0.lolicon97.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 5a6e0b67-8f28-4986-9db4-486b96004c04
+      ws-opts:
+        headers:
+            Host: test0.lolicon97.pp.ua
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 177"
+      netflix: true
+      network: ws
+      port: 9898
+      server: 8.219.170.1
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 178"
+      netflix: false
+      network: ws
+      port: 30835
+      server: v35.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /oooo
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 179"
+      netflix: false
+      network: ws
+      port: 443
+      server: 104.16.135.144
+      servername: oraino.us.kg
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 661f7083-b29e-4878-b162-25003167dd71
+      ws-opts:
+        headers:
+            Host: oraino.us.kg
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 180"
+      netflix: true
+      network: ws
+      port: 51646
+      server: 38.58.63.150
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 181"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.24.79.61
+      servername: cf.xingciyuan.cc
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 2c14bb45-9b6e-410e-8ba0-bcb0539dad22
+      ws-opts:
+        headers:
+            Host: cf.xingciyuan.cc
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 182"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.24.94.182
+      servername: abc.hh2277.dedyn.io
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a9c2c427-5b08-4afe-8641-4a610ba8c636
+      ws-opts:
+        headers:
+            Host: abc.hh2277.dedyn.io
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 183"
+      netflix: true
+      network: ws
+      port: 2083
+      server: 104.24.84.206
+      servername: bettercf.724719.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 25ee0c23-9a3c-4cd0-ab35-095dc7d2a756
+      ws-opts:
+        headers:
+            Host: bettercf.724719.xyz
+        path: /?ed=2560
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 184"
+      netflix: false
+      port: 34198
+      server: xjp1.907345.xyz
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 24d266ff-f5f6-49af-aac0-fa6200aeb2ff
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 186"
+      netflix: false
+      network: tcp
+      port: 29023
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: gysz0000.dynu.net
+      servername: www.amazon.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 188"
+      netflix: false
+      port: 39362
+      server: dddd2024.zj-zz-cm1.qunimade.lol
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: ec31bf35-41a0-4178-9c6a-77623b159076
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 190"
+      netflix: true
+      network: ws
+      port: 8443
+      server: 104.24.194.157
+      servername: bettercf.724719.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 25ee0c23-9a3c-4cd0-ab35-095dc7d2a756
+      ws-opts:
+        headers:
+            Host: bettercf.724719.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: CA
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1E8\U0001F1E6 CA 191"
+      netflix: false
+      network: tcp
+      port: 59303
+      reality-opts:
+        public-key: FHm9vc9hi1aK9jz8CqCjhJvT0bxzsD470FvOyubB6EA
+        short-id: bbe06294
+      server: 192.18.153.71
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 862e90e1-2f26-4506-b8b9-0adf20da05fc
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 192"
+      netflix: true
+      network: ws
+      port: 2053
+      server: icook.tw
+      servername: 2024.41122986.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: f9f2fcd0-cb25-487b-a171-5bd574f32d1e
+      ws-opts:
+        headers:
+            Host: 2024.41122986.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: TW
+      disney: false
+      name: "\U0001F1F9\U0001F1FC TW 193"
+      netflix: false
+      network: ws
+      port: 2053
+      server: 34.80.84.102
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: TW
+      disney: false
+      name: "\U0001F1F9\U0001F1FC TW 194"
+      netflix: false
+      network: ws
+      port: 18888
+      server: 35.201.255.124
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 196"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 104.24.218.182
+      servername: cf.xingciyuan.cc
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 2c14bb45-9b6e-410e-8ba0-bcb0539dad22
+      ws-opts:
+        headers:
+            Host: cf.xingciyuan.cc
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 197"
+      netflix: true
+      network: tcp
+      port: 64654
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: zhee01.dynu.net
+      servername: gateway.icloud.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 199"
+      netflix: false
+      network: tcp
+      port: 21578
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: shenzhou05.mysynology.net
+      servername: www.amazon.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: GB
+      disney: false
+      name: "\U0001F1EC\U0001F1E7 GB 203"
+      netflix: false
+      network: ws
+      port: 8443
+      server: 198.244.246.67
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 204"
+      netflix: false
+      network: tcp
+      port: 17930
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: bsuqian01.dynu.net
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 205"
+      netflix: false
+      network: ws
+      port: 2087
+      server: 104.20.31.149
+      servername: 666.331661.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 42508155-f71b-4248-bc89-4f7257571326
+      ws-opts:
+        headers:
+            Host: 666.331661.xyz
+        path: /?proxyip=proxyip.fxxk.dedyn.io
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 208"
+      netflix: true
+      network: ws
+      port: 30808
+      server: v8.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /oooo
+      youtube: false
+    - chatgpt: true
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 211"
+      netflix: false
+      network: ws
+      port: 8080
+      server: 104.19.54.50
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 542f0c58-1bec-41e3-8150-646872b33847
+      ws-opts:
+        headers:
+            Host: www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.
+        path: /@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 212"
+      netflix: true
+      network: ws
+      port: 443
+      server: 103.21.244.182
+      servername: xpvip168.eu.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: e8009279-c1e1-462c-bce6-6dff61fc0b84
+      ws-opts:
+        headers:
+            Host: xpvip168.eu.org
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      country: DE
+      disney: false
+      name: "\U0001F1E9\U0001F1EA DE 216"
+      netflix: false
+      network: ws
+      port: 8880
+      server: 104.17.147.22
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 0a6f34c4-39a7-4a27-914c-9d9ec9b57a89
+      ws-opts:
+        headers:
+            Host: vihypercloud.academigroup.ir.
+        path: /Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 218"
+      netflix: false
+      network: tcp
+      port: 55797
+      reality-opts:
+        public-key: Nl7rONuvseRBxqeLwnqjKiQDpu86tvuB8Kdbom_6pkw
+      server: 170.64.222.252
+      servername: www.iij.ad.jp
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: bc82c5c5-a9a8-4aba-8096-c0240f0ca81b
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 219"
+      netflix: true
+      network: tcp
+      port: 38302
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: agaungzhou01.bumbleshrimp.com
+      servername: www.amazon.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: chacha20-poly1305
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 221"
+      netflix: true
+      network: ws
+      port: 2086
+      server: www.csgo.com
+      servername: fl.66.now.cc
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: c1a72e6c-4df7-4cf6-b5be-e61eccfe3c53
+      ws-opts:
+        headers:
+            Host: fl.66.now.cc
+        path: c1a72e6c-4df7-4cf6-b5be-e61eccfe3c53-vm
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: HK
+      disney: false
+      name: "\U0001F1ED\U0001F1F0 HK 222"
+      netflix: false
+      network: ws
+      port: 9000
+      server: 219.79.67.70
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 223"
+      netflix: true
+      network: ws
+      port: 80
+      server: 45.131.4.250
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+      ws-opts:
+        headers:
+            Host: psycho.suex12.ir
+        path: /Telegram@WangCai2
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 224"
+      netflix: false
+      network: ws
+      port: 30828
+      server: v28.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: v28.heduian.link
+        path: /oooo
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 227"
+      netflix: false
+      port: 39182
+      server: dddd.zj-zz-bgp.qunimade.lol
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: ec31bf35-41a0-4178-9c6a-77623b159076
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 229"
+      netflix: true
+      network: ws
+      port: 2096
+      server: 104.24.81.249
+      servername: 2.771743.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: ac0f6732-f6f9-4284-bb77-c27935c29e74
+      ws-opts:
+        headers:
+            Host: 2.771743.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: TW
+      disney: false
+      name: "\U0001F1F9\U0001F1FC TW 230"
+      netflix: false
+      network: ws
+      port: 18333
+      server: 141.11.86.94
+      servername: 111.workerscf.dpdns.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 05248bff-11aa-4739-91fb-817d444adc82
+      ws-opts:
+        headers:
+            Host: 111.workerscf.dpdns.org
+        path: /?ed=2560
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 233"
+      netflix: true
+      network: ws
+      port: 443
+      server: 104.16.124.250
+      servername: bettercf.724719.xyz
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 25ee0c23-9a3c-4cd0-ab35-095dc7d2a756
+      ws-opts:
+        headers:
+            Host: bettercf.724719.xyz
+        path: /?ed=2560
+      youtube: false
+    - chatgpt: true
+      country: DE
+      disney: false
+      name: "\U0001F1E9\U0001F1EA DE 234"
+      netflix: false
+      network: ws
+      port: 8880
+      server: website.amin-app.ir
+      speed: 0
+      tls: false
+      type: vless
+      udp: true
+      uuid: 0a6f34c4-39a7-4a27-914c-9d9ec9b57a89
+      ws-opts:
+        headers:
+            Host: vIhYpErClOuD.aCaDeMiGrOuP.iR.
+        path: /Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 235"
+      netflix: true
+      network: ws
+      port: 443
+      server: rustam.ns.cloudflare.com
+      servername: amkj.sdchsd.cn
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 9ffaedda-2421-49ad-90d1-59b94ba4ab4e
+      ws-opts:
+        headers:
+            Host: amkj.sdchsd.cn
+        path: /?ed=2560
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: chacha20-poly1305
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 237"
+      netflix: false
+      network: ws
+      port: 2095
+      server: www.csgo.com
+      servername: ny6.66.now.cc
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 629f368a-cce1-4e78-9c0c-6358b6d76681
+      ws-opts:
+        headers:
+            Host: ny6.66.now.cc
+        path: 629f368a-cce1-4e78-9c0c-6358b6d76681-vm
+      youtube: true
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: TW
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1F9\U0001F1FC TW 239"
+      netflix: false
+      network: tcp
+      port: 37809
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: shenzhou05.mysynology.net
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 240"
+      netflix: true
+      network: tcp
+      port: 27932
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: zhee01.dynu.net
+      servername: www.amazon.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 241"
+      netflix: false
+      network: ws
+      port: 443
+      server: 104.18.20.20
+      servername: us6.globals-download.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: af8e7760-4993-4393-9db7-e84f05a06d21
+      ws-opts:
+        headers:
+            Host: us6.globals-download.com
+        path: /pq/us6
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 242"
+      netflix: false
+      network: ws
+      port: 30824
+      server: v24.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /oooo
+      youtube: false
+    - chatgpt: true
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 247"
+      netflix: false
+      network: ws
+      port: 443
+      server: 45.202.113.50
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: a3c075ab-51cd-4947-e8a4-aad55e19bec2
+      ws-opts:
+        headers:
+            Host: hy10.lzj520hxw.dpdns.org
+        path: /lzjjj
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F8 US 248"
+      netflix: true
+      network: tcp
+      port: 30206
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: bsuqian01.dynu.net
+      servername: addons.mozilla.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: DE
+      disney: false
+      name: "\U0001F1E9\U0001F1EA DE 249"
+      netflix: false
+      network: ws
+      port: 30833
+      server: v33.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /oooo
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 251"
+      netflix: false
+      network: tcp
+      port: 30158
+      reality-opts:
+        public-key: n7Ptb-3f4pw0D-hG-UP8Dp5Gf8J8Uxn029JMwdTyEFc
+        short-id: ee9e2505
+      server: 64.181.204.186
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: random
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 253"
+      netflix: true
+      network: ws
+      port: 2053
+      server: 103.21.244.106
+      servername: go-79m.pages.dev
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 43456a74-7d96-4e8a-8c1d-fbd392e81670
+      ws-opts:
+        headers:
+            Host: go-79m.pages.dev
+        path: /?ed=2560
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: NL
+      disney: false
+      name: "\U0001F1F3\U0001F1F1 NL 254"
+      netflix: false
+      network: ws
+      port: 30830
+      server: v30.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: ocbc.com
+        path: /oooo
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: DE
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1E9\U0001F1EA DE 255"
+      netflix: false
+      network: tcp
+      port: 58031
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: csuzhou01.1cooldns.com
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: SG
+      disney: false
+      name: "\U0001F1F8\U0001F1EC SG 257"
+      netflix: false
+      port: 11060
+      server: 43.156.102.65
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: 5cdd371e-cc4e-4ea2-91a8-c755f00f67a0
+      youtube: false
+    - alpn:
+        - http%2F1.1
+      chatgpt: true
+      client-fingerprint: chrome
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 258"
+      netflix: false
+      network: ws
+      port: 443
+      server: 172.67.212.82
+      servername: a8111bd0-52e0-4891-bc88-a425eb0e.131.pp.ua
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 15b24b56-d667-4fa8-b548-f3dc942fb461
+      ws-opts:
+        headers:
+            Host: a8111bd0-52e0-4891-bc88-a425eb0e.131.pp.ua
+        path: /ok1UBnf7txQ8YJFJxz
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 261"
+      netflix: false
+      network: ws
+      port: 443
+      server: www.racknerd.com
+      servername: grants-andrews-lp-helpful.trycloudflare.com
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: 78956f2a-5650-4ac1-b5e5-c86491768443
+      ws-opts:
+        headers:
+            Host: grants-andrews-lp-helpful.trycloudflare.com
+        path: /vmess-argo?ed=2048
+      youtube: false
+    - alterId: 2
+      chatgpt: true
+      cipher: auto
+      country: US
+      disney: false
+      name: "\U0001F1FA\U0001F1F8 US 262"
+      netflix: false
+      network: ws
+      port: 30804
+      server: v4.heduian.link
+      skip-cert-verify: true
+      speed: 0
+      tls: false
+      type: vmess
+      udp: true
+      uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+      ws-opts:
+        headers:
+            Host: ocbc.com
+        path: /oooo
+      youtube: false
+    - alterId: 0
+      chatgpt: true
+      cipher: auto
+      country: UN
+      disney: false
+      name: "\U0001F1FA\U0001F1F3 UN 265"
+      netflix: false
+      network: ws
+      port: 443
+      server: www.visa.com.tw
+      servername: digitaloceanauargo.lzj520hxw.dpdns.org
+      skip-cert-verify: true
+      speed: 0
+      tls: true
+      type: vmess
+      udp: true
+      uuid: bc82c5c5-a9a8-4aba-8096-c0240f0ca81b
+      ws-opts:
+        headers:
+            Host: digitaloceanauargo.lzj520hxw.dpdns.org
+        path: /vmess-argo?ed=2048
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: firefox
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 269"
+      netflix: false
+      network: tcp
+      port: 10002
+      reality-opts:
+        public-key: xnzUvDQZ4B45lUi40lFKOLWiJdPQW8LzhGsGandvvlc
+        short-id: ad081079
+      server: us2do.interld123456789.com
+      servername: addons.mozilla.org
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 31dbd21a-47d8-4e47-b493-276a065a7026
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 271"
+      netflix: false
+      network: tcp
+      port: 30019
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: agaungzhou01.bumbleshrimp.com
+      servername: www.yahoo.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 273"
+      netflix: false
+      network: tcp
+      port: 15464
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: csuzhou01.1cooldns.com
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: NL
+      disney: false
+      name: "\U0001F1F3\U0001F1F1 NL 274"
+      netflix: false
+      network: ws
+      port: 443
+      server: www.speedtest.net
+      servername: LbZxEzQu12.hAlVaSiYaHtOrIjIgArI.CoM
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 96a1b724-68d2-4f4d-ab25-38ecd83577bc
+      ws-opts:
+        headers:
+            Host: LbZxEzQu12.hAlVaSiYaHtOrIjIgArI.CoM
+        path: /
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: UN
+      disney: false
+      flow: xtls-rprx-vision
+      name: "\U0001F1FA\U0001F1F3 UN 275"
+      netflix: false
+      network: tcp
+      port: 12831
+      reality-opts:
+        public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+      server: agaungzhou01.bumbleshrimp.com
+      servername: www.nvidia.com
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+      youtube: false
+    - chatgpt: true
+      client-fingerprint: chrome
+      country: NL
+      disney: false
+      name: "\U0001F1F3\U0001F1F1 NL 278"
+      netflix: false
+      network: ws
+      port: 2096
+      server: www.speedtest.net
+      servername: LgUoZjGr14.hAmEcHiRuHaVaSt.cOm
+      speed: 0
+      tls: true
+      type: vless
+      udp: true
+      uuid: 96a1b724-68d2-4f4d-ab25-38ecd83577bc
+      ws-opts:
+        headers:
+            Host: LgUoZjGr14.hAmEcHiRuHaVaSt.cOm
+        path: /
+      youtube: false
